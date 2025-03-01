@@ -31,7 +31,7 @@ nvd-cve-api/
 
 ### **1️⃣ Clone the Repository**
 
-git clone https://github.com/your-repo/nvd-cve-api.git
+git clone https://github.com/https://github.com/HariHaran8080/NVD_Assessmnet_RDB.git
 cd nvd-cve-api
 
 2️⃣ Setup MySQL Database
